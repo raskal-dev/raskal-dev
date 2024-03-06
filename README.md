@@ -29,10 +29,10 @@
 ---
 ### 📫 How to reach me :
 <div>
-  <a href="https://www.linkedin.com/in/safidy-mariel-raherinotoavina-659612262/">
+  <a href="https://www.linkedin.com/in/kalvinrasamyzo/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.codewars.com/users/ramasama/badges/large">
+  <a href="https://www.codewars.com/users/raskal-dev/badges/large">
      <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars Badge"/>
   </a>
   <a href="">
