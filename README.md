@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=His+name+is+raskal-dev;Maminirina+Karim.;I'm+a+passionate+developer;from+Madagascar 🇲🇬." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=His+name+is+RASAMY-ZO;Kalvin;I'm+a+passionate+developer;from+Madagascar 🇲🇬." alt="Typing SVG" /></a>
 </div>
 
 ### My involvement 😎😎😎 :
@@ -23,7 +23,7 @@
 ### 📊 My Stats :
 <div>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=raskal-dev&show_icons=true&theme=dark&count_private=true&hide_border=false&include_all_commits=true" width="422px"  alt=""/>
-  <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=KarimShihio&theme=dark" width="418px"/>
+  <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=raskal-dev&theme=dark" width="418px"/>
 </div>
 
 ---
