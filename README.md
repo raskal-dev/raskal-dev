@@ -32,8 +32,8 @@
   <a href="https://www.linkedin.com/in/kalvin-rasamy-zo-259103240/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.codewars.com/users/raskal-dev/badges/large">
-     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars Badge"/>
+  <a href="https://www.codingame.com/profile/5cd46c882c2251d8a1c93925f28ece7b5118406">
+     <img src="https://img.shields.io/badge/Codeingame-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars Badge"/>
   </a>
   <a href="">
      <img src="https://img.shields.io/badge/Porfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Porfolio Badge"/>
